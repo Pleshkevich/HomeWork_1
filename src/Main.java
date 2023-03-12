@@ -5,6 +5,5 @@ public class Main {
         System.out.print("Enter user: ");
         String User = sc.nextLine();
         System.out.println("Hello " + User);
-        System.out.println("Hello " + User);
     }
 }
